@@ -39,7 +39,6 @@
 | **API** | FastAPI, Uvicorn |
 | **Сериализация** | Joblib |
 | **Визуализация** | Matplotlib, Seaborn |
-| **Тестирование** | Python `unittest` / `pytest` |
 | **Документация** | Swagger UI (встроен в FastAPI) |
 
 ---
